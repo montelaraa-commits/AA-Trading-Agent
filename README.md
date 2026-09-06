@@ -78,3 +78,11 @@ It is not financial advice.
 ## Dashboard Preview
 
 ![AA Trading Agent Dashboard](Screenshot%202026-09-05%20213542.png)
+## What This Dashboard Shows
+
+- Multi-stage decision pipeline status
+- Paper-trading performance
+- Long / Short position tracking
+- Net P/L after fees
+- Per-stage metrics and trade outcomes
+- Strategy version comparison
