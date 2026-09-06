@@ -75,3 +75,6 @@ The system is currently being tested, measured, and iteratively improved using h
 
 This project is for educational, research, and software-development purposes.
 It is not financial advice.
+## Dashboard Preview
+
+![AA Trading Agent Dashboard](Screenshot%202026-09-05%20213542.png)
